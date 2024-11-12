@@ -1,0 +1,9 @@
+Age,Education,Income
+Young,HighSchool,<=50K
+Middle,Bachelor,>50K
+Senior,Bachelor,>50K
+Middle,Master(MS),>50K
+Young,Master(MS),<=50K
+Senior,HighSchool,<=50K
+Young,Bachelor,<=50K
+Senior,Master(MS),>50K
